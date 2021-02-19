@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Dzierżąc swój zmiennokształtny hextechowy młot, ...korzysta ze swej siły, odwagi i inteligencji, by chronić miasto. O kim mowa w historii?",
+      "correct_answer": "Jayce",
+      "incorrect_answers": [
+        "Poppy",
+        "Darius",
+        "Taric"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "W którym roku została wydana postać Rell?",
+      "correct_answer": "2020",
+      "incorrect_answers": [
+        "2018",
+        "2021",
+        "2019"
+      ]
+    },
+    {
+      "category": "przedmioty",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Ile przedmiotów można zbudować z Lzy Bogini(Tear of the goddess)?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "1"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Ile sekund trwa turlanie się Rammusa podczas użycia umiejętności Powerball?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Co wpłynęło na zmianę Elise ze zwykłego człowieka w zmutowanego?",
+      "correct_answer": "Ukąszenie przez pajęczego boga",
+      "incorrect_answers": [
+        "Ugryzienie przez Warwicka",
+        "Eksperymenty w laboratorium Singeda",
+        "Klątwa wiedźmy"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Po ilu użyciach Smite (Porażenie) ulepsza się on i dodaje dodatkowe efekty?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "7",
+        "Ulepszanie za złoto"
+      ]
+    },
+    {
+      "category": "E-sport",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Z jaką ostatnią drużyną kontrakt podpisał Adrian Trybus 'Trymbi'?",
+      "correct_answer": "Rogue",
+      "incorrect_answers": [
+        "PRIDE",
+        "mouseesports",
+        "Astralis"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Z jakim wynikiem zakończyły się spotkania dla Fnatic EU LCS 2015 Summer?",
+      "correct_answer": "18-0",
+      "incorrect_answers": [
+        "12-6",
+        "17-1",
+        "16-2"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Jak ma na nazwisko Annie?",
+      "correct_answer": "Hastur",
+      "incorrect_answers": [
+        "Hyre",
+        "Fire",
+        "Sparkle"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "1",
+      "question": "Jaki zasięg posiada umiejętność Icathian Rain?",
+      "correct_answer": "600",
+      "incorrect_answers": [
+        "525",
+        "500",
+        "625"
+      ]
+    },
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Dzierżąc swój zmiennokształtny hextechowy młot, ...korzysta ze swej siły, odwagi i inteligencji, by chronić miasto. O kim mowa w historii?",
+      "correct_answer": "Jayce",
+      "incorrect_answers": [
+        "Poppy",
+        "Darius",
+        "Taric"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "W którym roku została wydana postać Rell?",
+      "correct_answer": "2020",
+      "incorrect_answers": [
+        "2018",
+        "2021",
+        "2019"
+      ]
+    },
+    {
+      "category": "przedmioty",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Ile przedmiotów można zbudować z Lzy Bogini(Tear of the goddess)?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "1"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Ile sekund trwa turlanie się Rammusa podczas użycia umiejętności Powerball?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Co wpłynęło na zmianę Elise ze zwykłego człowieka w zmutowanego?",
+      "correct_answer": "Ukąszenie przez pajęczego boga",
+      "incorrect_answers": [
+        "Ugryzienie przez Warwicka",
+        "Eksperymenty w laboratorium Singeda",
+        "Klątwa wiedźmy"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Po ilu użyciach Smite (Porażenie) ulepsza się on i dodaje dodatkowe efekty?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "7",
+        "Ulepszanie za złoto"
+      ]
+    },
+    {
+      "category": "E-sport",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Z jaką ostatnią drużyną kontrakt podpisał Adrian Trybus 'Trymbi'?",
+      "correct_answer": "Rogue",
+      "incorrect_answers": [
+        "PRIDE",
+        "mouseesports",
+        "Astralis"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Z jakim wynikiem zakończyły się spotkania dla Fnatic EU LCS 2015 Summer?",
+      "correct_answer": "18-0",
+      "incorrect_answers": [
+        "12-6",
+        "17-1",
+        "16-2"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Jak ma na nazwisko Annie?",
+      "correct_answer": "Hastur",
+      "incorrect_answers": [
+        "Hyre",
+        "Fire",
+        "Sparkle"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "2",
+      "question": "Jaki zasięg posiada umiejętność Icathian Rain?",
+      "correct_answer": "600",
+      "incorrect_answers": [
+        "525",
+        "500",
+        "625"
+      ]
+    },
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Dzierżąc swój zmiennokształtny hextechowy młot, ...korzysta ze swej siły, odwagi i inteligencji, by chronić miasto. O kim mowa w historii?",
+      "correct_answer": "Jayce",
+      "incorrect_answers": [
+        "Poppy",
+        "Darius",
+        "Taric"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "W którym roku została wydana postać Rell?",
+      "correct_answer": "2020",
+      "incorrect_answers": [
+        "2018",
+        "2021",
+        "2019"
+      ]
+    },
+    {
+      "category": "przedmioty",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Ile przedmiotów można zbudować z Lzy Bogini(Tear of the goddess)?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "1"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Ile sekund trwa turlanie się Rammusa podczas użycia umiejętności Powerball?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "lore",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Co wpłynęło na zmianę Elise ze zwykłego człowieka w zmutowanego?",
+      "correct_answer": "Ukąszenie przez pajęczego boga",
+      "incorrect_answers": [
+        "Ugryzienie przez Warwicka",
+        "Eksperymenty w laboratorium Singeda",
+        "Klątwa wiedźmy"
+      ]
+    },
+    {
+      "category": "gra",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Po ilu użyciach Smite (Porażenie) ulepsza się on i dodaje dodatkowe efekty?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "7",
+        "Ulepszanie za złoto"
+      ]
+    },
+    {
+      "category": "E-sport",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Z jaką ostatnią drużyną kontrakt podpisał Adrian Trybus 'Trymbi'?",
+      "correct_answer": "Rogue",
+      "incorrect_answers": [
+        "PRIDE",
+        "mouseesports",
+        "Astralis"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Z jakim wynikiem zakończyły się spotkania dla Fnatic EU LCS 2015 Summer?",
+      "correct_answer": "18-0",
+      "incorrect_answers": [
+        "12-6",
+        "17-1",
+        "16-2"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Jak ma na nazwisko Annie?",
+      "correct_answer": "Hastur",
+      "incorrect_answers": [
+        "Hyre",
+        "Fire",
+        "Sparkle"
+      ]
+    },
+    {
+      "category": "postacie",
+      "type": "multiple",
+      "difficulty": "3",
+      "question": "Jaki zasięg posiada umiejętność Icathian Rain?",
+      "correct_answer": "600",
+      "incorrect_answers": [
+        "525",
+        "500",
+        "625"
+      ]
+    }
+
+  ]
+}
